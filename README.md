@@ -16,6 +16,13 @@ Possible comparison features are:
 * probably more specific activity/work questions e.g. tools, IDEs, languages, field, etc.
 * Learning resources
 
+### Goals of analysis
+* getting an overview on the dataset and it's features
+* cleaning the data to fit our comparison needs and features: comparison between the two most represented countries in the data: India and the US
+* visualize comparison features in an appealing and intuitive way
+* comparison and visualization of selected features between the years 2017/18/19 of the Kaggle User Survey
+* formulating observations and conclusions on the compared features
+
 ### Data sources
 [Kaggle User Survey 2019](https://www.kaggle.com/c/kaggle-survey-2019)
 
