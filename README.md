@@ -15,3 +15,10 @@ Possible comparison features are:
 * probably more specific workplace questions e.g. for machine learning yes/ne, etc.
 * probably more specific activity/work questions e.g. tools, IDEs, languages, field, etc.
 * Learning resources
+
+### Data sources
+[Kaggle User Survey 2019](https://www.kaggle.com/c/kaggle-survey-2019)
+
+[Kaggle User Survey 2018](https://www.kaggle.com/kaggle/kaggle-survey-2018)
+
+[Kaggle User Survey 2017](https://www.kaggle.com/kaggle/kaggle-survey-2017)
